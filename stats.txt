@@ -1,0 +1,4 @@
+Number of SNP IDs: 8
+Total SNPs: 93
+Highest frequency: 24
+Lowest frequency: 4
